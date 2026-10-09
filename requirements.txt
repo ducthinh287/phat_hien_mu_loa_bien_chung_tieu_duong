@@ -1,0 +1,13 @@
+torch==2.4.0
+torchvision==0.19.0
+opencv-python
+albumentations==1.4.3
+scikit-learn==1.5.1
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+tqdm
+scipy
+pyyaml
